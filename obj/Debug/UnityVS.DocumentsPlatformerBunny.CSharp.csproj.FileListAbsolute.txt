@@ -1,9 +1,0 @@
-C:\Users\Dante\DocumentsPlatformerBunny\obj\Debug\UnityVS.DocumentsPlatformerBunny.CSharp.csprojResolveAssemblyReference.cache
-C:\Users\Dante\DocumentsPlatformerBunny\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
-C:\Users\Dante\DocumentsPlatformerBunny\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
-C:\Users\Dante\DocumentsPlatformerBunny\Temp\UnityVS_bin\Debug\UnityEditor.dll
-C:\Users\Dante\DocumentsPlatformerBunny\Temp\UnityVS_bin\Debug\UnityEngine.dll
-C:\Users\Dante\DocumentsPlatformerBunny\Temp\UnityVS_bin\Debug\UnityEngine.xml
-C:\Users\Dante\DocumentsPlatformerBunny\Temp\UnityVS_bin\Debug\UnityEditor.xml
-C:\Users\Dante\DocumentsPlatformerBunny\obj\Debug\Assembly-CSharp.dll
-C:\Users\Dante\DocumentsPlatformerBunny\obj\Debug\Assembly-CSharp.pdb
